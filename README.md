@@ -12,6 +12,16 @@ This project is a **Ticket Management System** developed in **TypeScript**, util
   - **Authentication Middleware**: Verifies JWT tokens.
   - **Error Handling Middleware**: Handles and formats errors gracefully.
 
+## Note:
+In the implementation, I have incorporated the following best practices:
+- Use of raw queries (although not generally recommended, it was explicitly mentioned in the assignment, so I've included them)
+- ORM usage, following best practices
+- Clear, self-explanatory comments
+- Test cases
+- Linting for code quality
+- Docker and Docker Compose for containerization
+- Database migrations
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
