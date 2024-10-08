@@ -148,12 +148,17 @@ Make sure you have the following installed:
     - GET /api/dashboard/analytics
     - Requires JWT authentication.
 
+## Tests Screenshots
 
-
-
-
-
-
+<img width="1728" alt="Screenshot 2024-10-08 at 5 31 22 PM" src="https://github.com/user-attachments/assets/44c0af52-5a9c-4455-b5bb-440aecbb9e99">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 44 44 PM" src="https://github.com/user-attachments/assets/7043f56d-037c-437f-a6c0-77f99c2e2373">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 44 48 PM" src="https://github.com/user-attachments/assets/0ea0c045-7178-4d07-b963-b5769ecc1c0e">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 44 50 PM" src="https://github.com/user-attachments/assets/caccc44c-a7fb-4660-9932-9e34bf4dc4ca">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 44 53 PM" src="https://github.com/user-attachments/assets/8c1fd541-cda5-4539-bfeb-7aed6f3cb73a">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 45 46 PM" src="https://github.com/user-attachments/assets/9c06deb4-d871-46f0-8944-f2419f8fdb14">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 45 52 PM" src="https://github.com/user-attachments/assets/66cd54e4-90b1-4466-86ac-a99d7c9116ff">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 56 27 PM" src="https://github.com/user-attachments/assets/8b1b01f8-6ec0-463a-85ce-4116dd4f0a46">
+<img width="1728" alt="Screenshot 2024-10-08 at 5 58 12 PM" src="https://github.com/user-attachments/assets/d06d220c-a97a-426b-a074-8dcd53b2e047">
 
 
 
