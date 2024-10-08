@@ -50,7 +50,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/ticket-management-system.git
+    git clone https://github.com/amulyakashyap09/ticket-management-system.git
     cd ticket-management-system
 
 2. Install dependencies:
